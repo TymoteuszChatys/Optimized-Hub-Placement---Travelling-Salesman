@@ -40,8 +40,10 @@ Assumptions:
     •   Cities/Towns with a larger population are weighted more than the others. Therefore, resulting
         in the hub placement being closer to larger cities and towns.
 Same as 2.1, however it is weighted by population.
-                            Simulation 3 – Nearest Neighbour
+
+                             Simulation 3 – Nearest Neighbour
 3.1– Nearest Neighbour
+
 An attempt to get as close to the answer for Travelling Salesman as possible, which is impossible to
 brute force with 10150 possible solutions.
 Assumptions:
@@ -49,7 +51,9 @@ Assumptions:
     •   Hubs can be in a random location
     •   Truck must travel from the hub, to every city, not returning to the hub until all cities and
         towns have been visited
-3.2– Improvement
+        
+                                Simulation 3.2– Improvement
+
 Nearest neighbour provides at best a mediocre approximation to the travelling salesman problem.
 Therefore, the answer from 3.1 is taken and is attempted to be improved upon by applying random
 changes in the order of movement of the route.
