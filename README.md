@@ -1,7 +1,8 @@
 # Optimized-Hub-Placement---Travelling-Salesman
 C++ Program attempts to first place the best hub using hill climbing followed by attempts to solve the travelling salesman problem by various approximations.
-                                      Tymoteusz Chatys
+                                      
                            Simulation 1 – Simplest simulation
+                           
 1.1 – No weighting
 Assumptions:
 
