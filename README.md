@@ -53,7 +53,9 @@ Assumptions:
     •   Truck must travel from the hub, to every city, not returning to the hub until all cities and
         towns have been visited
         
+        
                                 Simulation 3.2– Improvement
+                                
 
 Nearest neighbour provides at best a mediocre approximation to the travelling salesman problem.
 Therefore, the answer from 3.1 is taken and is attempted to be improved upon by applying random
